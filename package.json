@@ -1,32 +1,24 @@
 {
-	"name": "weather-cli",
-	"version": "1.0.0",
-	"description": "CLI for getting weather",
-	"main": "weather.js",
-	"bin": {
-		"weather": "./weather.js"
-	},
-	"type": "module",
-	"scripts": {
-		"start": "node weather.js",
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [
-		"cli",
-		"weather"
-	],
-	"author": "Volodymyr Boiko",
-	"license": "ISC",
-	"repository": {
-		"type": "git",
-		"url": ""
-	},
-	"bugs": {
-		"email": "boiko.volodymyr.dm@gmail.com"
-	},
-	"dependencies": {
-		"axios": "^0.24.0",
-		"chalk": "^5.0.0",
-		"dedent-js": "^1.0.1"
-	}
+    "name": "weather-cli",
+    "version": "1.0.0",
+    "description": "CLI for getting weather",
+    "main": "weather.js",
+    "bin": {
+        "weather": "./weather.js"
+    },
+    "type": "module",
+    "keywords": [
+        "cli",
+        "weather"
+    ],
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "chalk": "^5.0.0",
+        "dedent-js": "^1.0.1"
+    }
 }
