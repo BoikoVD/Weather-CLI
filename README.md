@@ -2,10 +2,6 @@
 
 The Weather CLI is designed to provide accurate and up-to-date weather information. With a simple and intuitive command line interface, you can quickly access current weather conditions, including temperature, humidity and wind speed for your or any other city.
 
-### Tech Stack:
-
-`JavaScript` `Node.js`
-
 ## Getting Started
 
 Follow this section to get the project working on your machine.
